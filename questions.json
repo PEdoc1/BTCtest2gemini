@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the smallest unit of Bitcoin?",
+    "choices": ["Satoshi", "Wei", "Gwei", "Finney"],
+    "correctAnswer": "Satoshi"
+  },
+  {
+    "question": "Who is the pseudonymous creator of Bitcoin?",
+    "choices": ["Vitalik Buterin", "Satoshi Nakamoto", "Charlie Lee", "Roger Ver"],
+    "correctAnswer": "Satoshi Nakamoto"
+  },
+  {
+    "question": "What is the maximum supply of Bitcoin?",
+    "choices": ["10 million", "21 million", "100 million", "Unlimited"],
+    "correctAnswer": "21 million"
+  }
+]
